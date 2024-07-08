@@ -1,6 +1,6 @@
-module github.com/gmlewis/go-fonts-z/fonts/znikomitno24
+module github.com/gmlewis/go-fonts-z/fonts/zincboomerang
 
-go 1.22.4
+go 1.22.5
 
 require github.com/gmlewis/go-fonts v0.19.0
 
